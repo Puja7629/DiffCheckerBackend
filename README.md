@@ -2,8 +2,9 @@
 
 
 1. Pull the repo into a folder
-2. use ```npm start``` to start the server
-3. Server runs on port 9000
+2. Run ```npm install```
+3. use ```npm start``` to start the server
+4. Server runs on port 9000
 
 
 ## DiffCheckerFrontend
